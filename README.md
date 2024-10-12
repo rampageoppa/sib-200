@@ -1,4 +1,3 @@
-# sib-200
 ## **[SIB-200: A Simple, Inclusive, and Big Evaluation Dataset for Topic Classification in 200+ Languages and Dialects](https://arxiv.org/abs/2309.07445)**
 
 This repository contains the [annotated English dataset](https://github.com/dadelani/sib-200/tree/main/data/eng), the [script](https://github.com/dadelani/sib-200/blob/main/get_flores_and_annotate.sh) to extend annotation to other languages and [code](https://github.com/dadelani/sib-200/tree/main/code) to run baseline text classification models. 
