@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # sib-200
 =======
 ## **[SIB-200: A Simple, Inclusive, and Big Evaluation Dataset for Topic Classification in 200+ Languages and Dialects](https://arxiv.org/abs/2309.07445)**
@@ -45,4 +44,3 @@ sh xlmr_all.sh
       primaryClass={cs.CL}
 }
 ```
->>>>>>> master
